@@ -1,4 +1,4 @@
-# 文件上传，基于node的express配合百度webuploader实现文件或图片上传
+# 文件上传，基于node的express+webuploader实现文件上传
 ### step1.npm install
 安装所需包
 ### step2.启动web服务器
