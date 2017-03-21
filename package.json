@@ -1,0 +1,25 @@
+{
+  "name": "fileupload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "connect": "^3.6.0"
+  },
+  "devDependencies": {
+    "body-parser": "^1.17.1",
+    "compression": "^1.6.2",
+    "connect": "^3.6.0",
+    "connect-multiparty": "^2.0.0",
+    "cookie-session": "^2.0.0-beta.1",
+    "express": "^4.15.2",
+    "formidable": "^1.1.1",
+    "multer": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
